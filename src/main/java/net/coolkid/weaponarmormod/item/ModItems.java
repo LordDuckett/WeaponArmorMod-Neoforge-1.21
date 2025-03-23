@@ -13,8 +13,9 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> RAW_AQUARIUM = ITEMS.register("raw_aquarium",
             () -> new Item(new Item.Properties()));
+
     public static final DeferredItem<Item> WARDEN_TENDRIL = ITEMS.register("warden_tendril",
-            () -> new Item(new Item.Properties()));
+            () -> new Item(new Item.Properties().food(ModFoodProperties.WARDEN_TENDRIL)));
 
     public static void register(IEventBus modEventBus) { ITEMS.register(modEventBus);}
 }

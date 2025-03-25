@@ -1,11 +1,13 @@
 {
   "item.weaponarmormod.aquarium_ingot": "Aquarium Ingot",
   "item.weaponarmormod.raw_aquarium": "Raw Aquarium",
-  "item.weaponarmormod.warden_tendril": "Warden Tendril",
+  "item.weaponarmormod.warden_tendril": "§1Warden Tendril§r",
 
   "block.weaponarmormod.aquarium_block": "Block of Aquarium",
   "block.weaponarmormod.aquarium_ore": "Aquarium Ore",
   "block.weaponarmormod.aquarium_deepslate_ore": "Aquarium Deepslate Ore",
 
-  "creativetab.weaponarmormod.wam": "Weapon Armor Mod"
+  "creativetab.weaponarmormod.wam": "Weapon Armor Mod",
+
+  "tooltip.weaponarmormod.warden_tendril": "Don't Eat It"
 }

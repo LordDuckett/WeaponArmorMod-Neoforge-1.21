@@ -1,0 +1,3 @@
+// 1.21.1	2025-03-28T14:07:09.5741025	Tags for minecraft:block mod id weaponarmormod
+73b26bf44b423443adcb6917c0e8ad55456f92c0 data/minecraft/tags/block/mineable/pickaxe.json
+63038a8a5a71047afcd34931bb29b58fc37c090e data/minecraft/tags/block/needs_iron_tool.json
